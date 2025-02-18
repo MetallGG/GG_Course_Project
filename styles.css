@@ -1,0 +1,37 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+header {
+  background-color: bisque;
+}
+header nav {
+  text-align: center;
+}
+header nav ul {
+  list-style-type: none;
+}
+header nav ul li a {
+  text-decoration: none;
+  color: rgb(15, 96, 25);
+}
+main {
+  text-align: center;
+}
+#searchbox {
+  text-align: right;
+}
+main section {
+  text-align: center;
+}
+main .image-container img {
+  width: 250px;
+  height: 200px;
+}
+main .description p {
+  width: 500px;
+}
+footer {
+  background-color: bisque;
+  text-align: center;
+}
