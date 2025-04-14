@@ -1,6 +1,6 @@
 import { test } from "@playwright/test";
-import TestPageSteps from "../steps/testPage.steps";
 import { TestPage } from "../pages/testPage";
+import TestPageSteps from "../steps/testPage.steps";
 
 let testPage: TestPage;
 let testPageSteps: TestPageSteps;
